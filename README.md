@@ -6,8 +6,8 @@ This is a project to build an automatic number plate recognition system using Op
 ## Requirements
 To run this project, you need to install the following libraries:
 
-* OpenCV: pip install opencv-python
-* TensorFlow: pip install tensorflow
+* OpenCV: `pip install opencv-python`
+* TensorFlow: `pip install tensorflow`
 
 # Usage
 Clone the repository to your local machine:
